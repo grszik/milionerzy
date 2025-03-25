@@ -1,7 +1,1 @@
-question1|correct answer|2nd answer|3rd answer|4th answer
-questioną2|correct|not answer|yes|4th answer
-question3|correct|not answer|yes|4th answer
-question4|correct|not answer|yes|4th answer
-question5|correct|not answer|yes|4th answer
-question6|correct|not answer|yes|4th answer
-question7|correct|not answer|yes|4th answer
+Ile nog ma krowa?|4|8|3|2
